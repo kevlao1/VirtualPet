@@ -1,4 +1,4 @@
-void setup(){
+void setup() {
 background(245, 245, 245);
 size(1920,1080);
 }
